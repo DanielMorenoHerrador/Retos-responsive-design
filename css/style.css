@@ -1,0 +1,31 @@
+body{background-color: aqua;}
+
+.container{
+    background-color: black;
+    height: 60vh;
+    width: 40vw;
+    margin-top: 20vh;
+}
+
+.sup{ 
+    background-color: brown;
+    height: 10vh;
+}
+
+.mid{ 
+    background-color: coral;
+    height: 80%;
+}
+.inf{
+    background-color: darkblue;
+    height: 10vh;
+}
+
+.col-der{
+    background-color: yellow;
+    height: 30%;
+}
+.mid-izq{
+    background-color: darkgreen;
+    height: 30%;
+}
