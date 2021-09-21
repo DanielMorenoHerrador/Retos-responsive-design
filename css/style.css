@@ -17,7 +17,7 @@ body{background-color: aqua;}
     height: 80%;
 }
 .inf{
-    background-color: darkblue;
+    background-color: rgb(117, 117, 128);
     height: 10vh;
 }
 
@@ -25,7 +25,17 @@ body{background-color: aqua;}
     background-color: yellow;
     height: 30%;
 }
-.mid-izq{
+.mid-iz{
     background-color: darkgreen;
     height: 30%;
+}
+
+.btn-primary{ 
+    background-color: blue; 
+    display: flex;
+    
+    
+}
+.datos{ 
+    background-color: blueviolet;
 }
